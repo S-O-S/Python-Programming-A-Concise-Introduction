@@ -2,7 +2,7 @@
 
 This is solution for the Course provided on platform **Coursera**. Kindly uphold the coursera Honor Code. This Solution is meant for personal usage only.
 
-<img src="https://github.com/S-O-S/Python-Programming-A-Concise-Introduction/blob/main/Pic/Course_pic.JPG" alt="Course Logo" />
+<img src="https://github.com/S-O-S/Python-Programming-A-Concise-Introduction/blob/main/Pic/Course_pic.jpg" alt="Course Logo" />
 
 ## About the Course
 
